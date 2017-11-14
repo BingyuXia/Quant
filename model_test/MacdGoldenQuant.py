@@ -69,7 +69,7 @@ class MD(StrategyBase):
 
 if __name__ == "__main__":
     md=MD(username="xiaby14@mails.tsinghua.edu.cn",
-          password="190215wixhz",
+          password="",
           strategy_id="0e831fac-c6c6-11e6-a9aa-821934cbea5d",
           #subscribe_symbols="SHFE.AU.bar.daily",
           subscribe_symbols="SHSE.600000.bar.daily",
